@@ -1,7 +1,7 @@
 # AI-ML Learning Journey 🚀
 
 Welcome to my **AI/ML Learning Journey**!  
-This repository documents my step-by-step learning of **Artificial Intelligence (AI)** and **Machine Learning (ML)** — from Python basics to beginner-level ML models.
+This repository documents my step-by-step learning of **Artificial Intelligence (AI)** and **Machine Learning (ML)** — from Python basics to advance-level ML models.
 
 I’ll be updating this repo **weekly** with notes, exercises, and mini-projects.
 
